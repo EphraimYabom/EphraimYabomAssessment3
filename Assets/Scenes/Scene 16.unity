@@ -181,11 +181,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Chapter 1: The Gate of Valor\r\n\nAs you step into the maze, the air is
-    cold and heavy. Before you stands a knight holding a mirror. His hollow eyes
-    seem to follow you, challenging you to understand what true bravery is.\r\n\nThe
-    Paradigm of Valor asks: \u201CIs true bravery to confront your fear or to embrace
-    it?\u201D\r\n"
+  m_text: "Chapter 2: The Threshold of Honor\r\n\nYou arrive at a fork. On one side,
+    a glowing crown rests on a pedestal. On the other, an old beggar shivers in the
+    cold.\r\n\nThe Paradigm of Honor whispers: \u201CIs honor found in the glory
+    of the crown or the kindness of the heart?\u201D\r\n\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -320,7 +319,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u2022\tA. Confront fear and destroy the mirror."
+  m_text: "\u2022\tA. Take the crown, for power brings justice."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -745,7 +744,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Scene 5
+          m_StringArgument: Scene 8
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1386864545
@@ -963,7 +962,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Scene 6
+          m_StringArgument: Scene 9
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1690246114
@@ -1190,7 +1189,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u2022\tB. Embrace the reflection and see what lies within."
+  m_text: "\u2022\tB. Aid the beggar, for kindness is the true honor."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
