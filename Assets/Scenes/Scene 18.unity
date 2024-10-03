@@ -283,11 +283,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "You grasp the crown, feeling its cold weight. The beggar fades away, forgotten.
-    But as you place the crown on your head, it fuses to you, tightening until you
-    cannot breathe. \u201CYou chose false honor,\u201D a voice echoes. The crown
-    becomes your prison, and you collapse under its weight, forever trapped by your
-    ambition."
+  m_text: You rush to save your friend, but as you do, the villagers fall into the
+    abyss. Their screams echo in your ears as the bridge crumbles beneath your feet.
+    You plunge into the dark void, realizing too late that the weight of your choice
+    was too great. The maze consumes you, lost in your selfishness.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -296,8 +295,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4281874488
+  m_fontColor: {r: 0.21960786, g: 0.21960786, b: 0.21960786, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:

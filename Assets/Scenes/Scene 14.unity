@@ -283,10 +283,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "You walk past the crown and help the beggar, wrapping him in your cloak.
-    As you do, his frail form dissolves, and the path ahead is revealed. Honor is
-    not in titles or riches, but in the small acts of kindness that define your character.
-    The beggar\u2019s lesson stays with you as you move forward."
+  m_text: You choose mercy, knowing that strict justice without compassion is not
+    true justice. The shadowy figure fades, and a light path appears. You understand
+    now that justice must be balanced with mercy, for the good of all, not just the
+    law.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -295,8 +295,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4281874488
+  m_fontColor: {r: 0.21960786, g: 0.21960786, b: 0.21960786, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -608,7 +608,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Scene 10
+          m_StringArgument: Scene 16
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1369815030
