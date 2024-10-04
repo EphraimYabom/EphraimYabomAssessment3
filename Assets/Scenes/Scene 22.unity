@@ -181,12 +181,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Chapter 6: The Path of Awakening\r\nAt last, you stand before the Oracle.
-    She holds a glowing vial in her hand\u2014the Salt of Shine. \u201CYou have faced
-    the Paradigms of Jadotar. Now, I offer you the Salt of Shine. Partake, and you
-    will awaken from the illusions of this maze,\u201D she says.\r\nThe Oracles asks:
-    \u201CWill you accept the truth and transcend, or will you remain in the comfortable
-    illusions of duty and honor?\u201D\r\n"
+  m_text: "The Court of the Oracle\n\nAt last, you stand before the Oracle. She holds
+    a glowing vial in her hand\u2014the Salt of Shine. \u201CYou have faced the Paradigms
+    of Jadotar. Now, I offer you the Salt of Shine. Partake, and you will awaken
+    from the illusions of this maze,\u201D she says.\r\n\nThe Oracles asks: \u201CWill
+    you accept the truth and transcend, or will you remain in the comfortable illusions
+    of duty and honor?\u201D\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}

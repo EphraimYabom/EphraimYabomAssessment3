@@ -23,4 +23,67 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Scene 4.unity
     guid: 3da718e84c4e7b14f990e9af7b1a1489
+  - enabled: 1
+    path: Assets/Scenes/Scene 5.unity
+    guid: 4c40ea415a2eac445aa9517034144df3
+  - enabled: 1
+    path: Assets/Scenes/Scene 6.unity
+    guid: fdd8a910bb6f7de498e6af9ce7a8dbb4
+  - enabled: 1
+    path: Assets/Scenes/Scene 7.unity
+    guid: dc8a3486ade936f41ba88cd4b313cdd1
+  - enabled: 1
+    path: Assets/Scenes/Scene 8.unity
+    guid: 90d264a17f3111b448bcd5ac797e2535
+  - enabled: 1
+    path: Assets/Scenes/Scene 9.unity
+    guid: 4e67f876d65a7d54da38feaf1486a6dd
+  - enabled: 1
+    path: Assets/Scenes/Scene 10.unity
+    guid: df087635c8e370e428b5940cfe1a8d0a
+  - enabled: 1
+    path: Assets/Scenes/Scene 11.unity
+    guid: c248b62f0a7136e498c0bf7cb1f1625d
+  - enabled: 1
+    path: Assets/Scenes/Scene 12.unity
+    guid: b8d377dba8ea15a44847b2fb1937a98f
+  - enabled: 1
+    path: Assets/Scenes/Scene 13.unity
+    guid: 13438659d5586b54f990e63f3e04a19d
+  - enabled: 1
+    path: Assets/Scenes/Scene 14.unity
+    guid: 1a8690048b1cd594d8dfadf1188c183d
+  - enabled: 1
+    path: Assets/Scenes/Scene 15.unity
+    guid: 6a508367790c4c546bccd07ca02c3457
+  - enabled: 1
+    path: Assets/Scenes/Scene 16.unity
+    guid: e84bcdeb68b042d40a74d3e8ad724aeb
+  - enabled: 1
+    path: Assets/Scenes/Scene 17.unity
+    guid: 11b3596cacd3edf41b097f078348e417
+  - enabled: 1
+    path: Assets/Scenes/Scene 18.unity
+    guid: 9ad1a6c9808385f4ebffa214a2fcccd2
+  - enabled: 1
+    path: Assets/Scenes/Scene 19.unity
+    guid: 75f4185958b13864898e75be55281505
+  - enabled: 1
+    path: Assets/Scenes/Scene 20.unity
+    guid: 9109e553cd2d9c240a09237a88b6a739
+  - enabled: 1
+    path: Assets/Scenes/Scene 21.unity
+    guid: a1a6e61a7f69b8342adcd43cc72075d2
+  - enabled: 1
+    path: Assets/Scenes/Scene 22.unity
+    guid: 6cb54e6ea5f8dee48a029216ccd48bc8
+  - enabled: 1
+    path: Assets/Scenes/Scene 23.unity
+    guid: 9d6c0e2df6e5e834b89a56ade13f8940
+  - enabled: 1
+    path: Assets/Scenes/Scene 24.unity
+    guid: 0498b32844318af418dc5f8426807663
+  - enabled: 1
+    path: Assets/Scenes/Scene 25.unity
+    guid: 4b9009e32a5a3e1448d8b48b083405c2
   m_configObjects: {}
